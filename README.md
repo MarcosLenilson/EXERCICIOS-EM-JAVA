@@ -1,4 +1,4 @@
-# EXERCICIOS EM JAVA
+# EXERCICIOS EM JAVA 
 
 # 📌 Este repositório contém uma lista de exercícios para aprender e praticar JAVA 
 
@@ -65,8 +65,19 @@ antecessor e seu sucessor.
 11. Faça um programa em Java  que o usuário informe 1 valor, e retorne o quadrado do valor.
 <!-- RESOLVIDO -->
 
+---------------------------------------------------------------------------------------
 
+# EXERCICIOS EM JAVA DA W3RESOURCE
+> LINK DO SITE:  
+<a>https://www.w3resource.com/java-exercises/basic/index.php</a>
 
+LISTA DE EXERCÍCIOS
+
+1. Escreva um programa Java para imprimir 'Olá' na tela e seu nome em uma linha separada.
+Saída Esperada: Olá
+
+2. Escreva um programa Java para imprimir a soma de dois números.
+Dados de teste: 74 + 36 Saída esperada : 110
 
 
 
