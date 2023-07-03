@@ -75,12 +75,15 @@ LISTA DE EXERCÍCIOS
 
 1. Escreva um programa Java para imprimir 'Olá' na tela e seu nome em uma linha separada.
 Saída Esperada: Olá
+<!-- RESOLVIDO -->
 
 2. Escreva um programa Java para imprimir a soma de dois números.
 Dados de teste: 74 + 36 Saída esperada : 110
+<!-- RESOLVIDO -->
 
 3. Escreva um programa Java para dividir dois números e imprima-os na tela.
 Dados de teste: 50/3 Saída esperada: 16
+<!-- RESOLVIDO -->
 
 4. Escreva um programa Java para imprimir os resultados das seguintes operações.
 Dados de teste: 
@@ -93,6 +96,7 @@ Saída esperada :
 1
 19
 13
+<!-- RESOLVIDO -->
 
 5. Escreva um programa Java que receba dois números como entrada e exiba o produto de dois números.
 Dados de teste:
@@ -100,6 +104,42 @@ Primeiro número de entrada: 25
 Segundo número de entrada: 5
 Saída esperada :
 25 x 5 = 125
+<!-- RESOLVIDO -->
+
+6. Escreva um programa Java para imprimir a soma (adição), multiplicação, subtração, divisão e resto de dois números.
+Dados de teste:
+Insira o primeiro número: 125
+Insira o segundo número: 24
+Saída esperada :
+125 + 24 = 149
+125 - 24 = 101
+125 x 24 = 3000
+125 / 24 = 5
+125 mod 24 = 5
+<!-- RESOLVIDO -->
+
+7. Escreva um programa Java que receba um número como entrada e imprima sua tabela de multiplicação até 10.
+Dados de teste:
+Insira um número: 8
+Saída esperada :
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24
+...
+8 x 10 = 80
+<!-- RESOLVIDO -->
+
+8. Escreva um programa Java para exibir o seguinte padrão.
+Padrão de amostra:
+
+   J    a   v     v  a 
+   J   a a   v   v  a a  
+J  J  aaaaa   V V  aaaaa 
+ JJ  a     a   V  a     a
+<!-- RESOLVIDO -->
+
+
+
 
 
 
