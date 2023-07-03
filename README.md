@@ -79,9 +79,27 @@ Saída Esperada: Olá
 2. Escreva um programa Java para imprimir a soma de dois números.
 Dados de teste: 74 + 36 Saída esperada : 110
 
+3. Escreva um programa Java para dividir dois números e imprima-os na tela.
+Dados de teste: 50/3 Saída esperada: 16
 
+4. Escreva um programa Java para imprimir os resultados das seguintes operações.
+Dados de teste: 
+    a. -5 + 8 * 6
+    b. (55+9) % 9
+    c. 20 + -3*5 / 8
+    d. 5 + 15 / 3 * 2 - 8% 3
+Saída esperada :
+43
+1
+19
+13
 
-
+5. Escreva um programa Java que receba dois números como entrada e exiba o produto de dois números.
+Dados de teste:
+Primeiro número de entrada: 25
+Segundo número de entrada: 5
+Saída esperada :
+25 x 5 = 125
 
 
 
