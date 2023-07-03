@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class NascimentoEmDias{
+public class Teste__ex01__NascimentoEmDias{
   public static void main(String args[]){
     // vamos usar um objeto Scanner para ler a entrada
     // do usuário

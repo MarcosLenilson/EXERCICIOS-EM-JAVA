@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
-public class CalculoDiasAposAniversario {
+public class Teste__ex01__CalculoDiasAposAniversario {
     public static void main(String[] args) {
         // Data de aniversário
         int diaAniversario = 16;
