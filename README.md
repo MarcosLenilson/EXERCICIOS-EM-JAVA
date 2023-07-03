@@ -50,10 +50,27 @@ calcule a quantidade de salários mínimos esse usuário ganha e imprima o resul
 antecessor e seu sucessor.
 <!-- RESOLVIDO -->
 
-7. Faça um programa que o usuário informe 3 valores, e retorne a soma dos tres.
+7. Faça um programa em Java  que o usuário informe 3 valores, e retorne a soma dos tres.
 <!-- RESOLVIDO -->
 
-8. Faça um programa que o usuário informe 3 valores, e retorne a Média.
+8. Faça um programa em Java  que o usuário informe 3 valores, e retorne a Média.
 <!-- RESOLVIDO -->
 
-9. Faça um programa que o usuário informe 1 valor, e retorne a quinta parte do valor.
+9. Faça um programa em Java  que o usuário informe 1 valor, e retorne a quinta parte do valor.
+<!-- RESOLVIDO -->
+
+10. Faça uma função em Java que receba dois numeros inteiros, e retorne o menor deles.
+<!-- RESOLVIDO -->
+
+11. Faça um programa em Java  que o usuário informe 1 valor, e retorne o quadrado do valor.
+<!-- RESOLVIDO -->
+
+
+
+
+
+
+
+
+
+
