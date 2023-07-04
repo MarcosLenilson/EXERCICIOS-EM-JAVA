@@ -138,6 +138,38 @@ J  J  aaaaa   V V  aaaaa
  JJ  a     a   V  a     a
 <!-- RESOLVIDO -->
 
+-------------------------------------------------------------------------
+# EXERCICIOS EM JAVA
+> LINK DO SITE:  
+https://dev.to/guilhermemanzano/exercicios-resolvidos-de-orientacao-a-objetos-em-java-4b6g
+
+Exercícios de Orientação a Objetos em Java
+
+1. Implemente o seguinte diagrama de classes em JAVA:
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yf7tTkHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/scqarzj4p1vuvsys3vzc.png">
+
+
+-------------------------------------------------------------------------
+# EXERCICIOS P.O.O CURSO EM VIDEO
+> LINK DO VIDEO: 
+https://www.youtube.com/watch?v=19IGAeoFKlU&t=707s
+
+> LINK DA PLAYLIST CURSO P.O.O: 
+https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
+
+
+O exercicio consiste em aprender técnicas de HERANÇA, que é um dos pilares da POO através do Diagrama de classe abaixo.
+
+<img src='./Exercicios_POO_Curso_em_Video/Diagrama%20de%20Classe.png' style= "height: 450px">
+
+CLASSES:
+
+* ProjetoPessoas = Programa principal
+* Pessoa = Classe pai/mãe/ancestral
+* Aluno = Classe filha => Herda atributos da classe Pessoa
+* Professor = Classe filha => Herda atributos da classe Pessoa
+* Funcionario = Classe filha => Herda atributos da classe Pessoa
 
 
 
