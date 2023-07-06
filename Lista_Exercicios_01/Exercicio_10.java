@@ -26,5 +26,7 @@ public class Exercicio_10 {
             System.out.println("O menor numero digitado foi: " + num2);
         }
         return ;
+
+        
     }
 }

@@ -12,6 +12,9 @@ public class Exercicio_11 {
         
         System.out.println("Digite um numero: ");
         quadrado(leitorScanner.nextInt());
+        leitorScanner.close();
+
     }
+
 
 }

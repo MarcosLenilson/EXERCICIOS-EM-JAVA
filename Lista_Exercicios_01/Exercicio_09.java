@@ -12,6 +12,6 @@ public class Exercicio_09 {
         quintaParte = num1 * 1/5;
 
         System.out.println("A quinta parte do numero " + num1 + " é: " + quintaParte);
-        
+        leitorScanner.close();
     }
 }

@@ -16,5 +16,6 @@ public class Exercicio_06 {
         System.out.println("O valor do antecessor: " + antecessor);
         System.out.println("O valor do sucessor: " + sucessor);
         
+        leitorScanner.close();
     }
 }

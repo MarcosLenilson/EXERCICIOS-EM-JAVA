@@ -34,5 +34,7 @@ public class Exercicio_01{
         
         System.out.println("Total de dias: "+ resultado);
 
+
+        ler.close();
     }
 }    
