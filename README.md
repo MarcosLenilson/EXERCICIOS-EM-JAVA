@@ -28,10 +28,10 @@ mostre-a expressa em dias. Leve em consideração o ano com 365 dias e o mês co
 
 2. Faça um programa em Java que imprima a média aritmética dos números 8,9 e 7. A média dos
 números 4, 5 e 6. A soma das duas médias. A média das médias.
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 3. Faça um programa em Java que informar um saldo e imprimir o saldo com reajuste de 1%.
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 4. Faça um programa em Java que:
     - Leia via terminal porcentagem do IPI a ser acrescido no valor das peças
@@ -39,31 +39,31 @@ números 4, 5 e 6. A soma das duas médias. A média das médias.
     - Digite o código da peça 2, valor unitário da peça 2, quantidade de peças 2.
     - O algoritmo deve calcular o valor total a ser pago e apresentar o resultado.
     Fórmula : (valor1 * quant1 + valor2 * quant2)*(IPI/100 + 1)
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 5. Faça um programa em Java que leia o valor do salário mínimo e o valor do salário de um usuário,
 calcule a quantidade de salários mínimos esse usuário ganha e imprima o resultado.
 (SALARIO MINIMO = R$1320)
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 6. Faça um programa em Java que leia um número inteiro e imprima o seu
 antecessor e seu sucessor.
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 7. Faça um programa em Java  que o usuário informe 3 valores, e retorne a soma dos tres.
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 8. Faça um programa em Java  que o usuário informe 3 valores, e retorne a Média.
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 9. Faça um programa em Java  que o usuário informe 1 valor, e retorne a quinta parte do valor.
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 10. Faça uma função em Java que receba dois numeros inteiros, e retorne o menor deles.
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 11. Faça um programa em Java  que o usuário informe 1 valor, e retorne o quadrado do valor.
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 ---------------------------------------------------------------------------------------
 
@@ -75,15 +75,15 @@ LISTA DE EXERCÍCIOS
 
 1. Escreva um programa Java para imprimir 'Olá' na tela e seu nome em uma linha separada.
 Saída Esperada: Olá
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 2. Escreva um programa Java para imprimir a soma de dois números.
 Dados de teste: 74 + 36 Saída esperada : 110
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 3. Escreva um programa Java para dividir dois números e imprima-os na tela.
 Dados de teste: 50/3 Saída esperada: 16
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 4. Escreva um programa Java para imprimir os resultados das seguintes operações.
 Dados de teste: 
@@ -96,7 +96,7 @@ Saída esperada :
 1
 19
 13
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 5. Escreva um programa Java que receba dois números como entrada e exiba o produto de dois números.
 Dados de teste:
@@ -104,7 +104,7 @@ Primeiro número de entrada: 25
 Segundo número de entrada: 5
 Saída esperada :
 25 x 5 = 125
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 6. Escreva um programa Java para imprimir a soma (adição), multiplicação, subtração, divisão e resto de dois números.
 Dados de teste:
@@ -116,7 +116,7 @@ Saída esperada :
 125 x 24 = 3000
 125 / 24 = 5
 125 mod 24 = 5
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 7. Escreva um programa Java que receba um número como entrada e imprima sua tabela de multiplicação até 10.
 Dados de teste:
@@ -127,7 +127,7 @@ Saída esperada :
 8 x 3 = 24
 ...
 8 x 10 = 80
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
 
 8. Escreva um programa Java para exibir o seguinte padrão.
 Padrão de amostra:
@@ -136,7 +136,64 @@ Padrão de amostra:
    J   a a   v   v  a a  
 J  J  aaaaa   V V  aaaaa 
  JJ  a     a   V  a     a
-<!-- RESOLVIDO -->
+=> **RESOLVIDO** 
+
+9. Escreva um programa Java para calcular as expressões especificadas e imprimir a saída.
+Dados de teste: ((25,5 * 3,5 - 3,5 * 3,5) / (40,5 - 4,5))
+Saída esperada:
+2,138888888888889
+=> **RESOLVIDO** 
+
+10. Escreva um programa Java para calcular uma fórmula especificada.
+Fórmula especificada:
+4,0 * (1 - (1,0/3) + (1,0/5) - (1,0/7) + (1,0/9) - (1,0/11)) 
+Saída esperada:
+2,9760461760461765
+=> **RESOLVIDO** 
+
+11. Escreva um programa Java para imprimir a área e o perímetro de um círculo.
+Dados de teste:
+Raio = 7,5 O perímetro
+de saída esperado
+é = 47,12388980384689
+A área é = 176,71458676442586
+=> **RESOLVIDO** 
+
+12. Escreva um programa Java que receba três números como entrada para calcular e imprimir a média dos números.
+=> **RESOLVIDO** 
+
+13. Escreva um programa Java para imprimir a área e o perímetro de um retângulo.
+Dados de teste:
+Largura = 5,5 Altura = 8,5
+A Área de Saída Esperada
+é 5,6 * 8,5 = 47,60
+O perímetro é 2 * (5,6 + 8,5) = 28,20
+=> **RESOLVIDO** 
+
+14. Escreva um programa Java para imprimir uma bandeira americana na tela.
+Saída Esperada
+  
+* * * * * * ==================================                          
+ * * * * * ==================================                          
+* * * * * * ==================================                          
+ * * * * * ==================================                          
+* * * * * * ==================================                          
+ * * * * * ==================================                          
+* * * * * * ==================================                          
+ * * * * * ==================================                          
+* * * * * * ==================================                          
+==============================================                          
+==============================================                          
+==============================================                          
+==============================================                          
+==============================================                          
+==============================================
+=> **RESOLVIDO** 
+
+15. Escreva um programa Java para trocar duas variáveis.
+=> **RESOLVIDO** 
+
+
 
 -------------------------------------------------------------------------
 # EXERCICIOS EM JAVA
@@ -171,7 +228,4 @@ CLASSES:
 * Professor = Classe filha => Herda atributos da classe Pessoa
 * Funcionario = Classe filha => Herda atributos da classe Pessoa
 
-
-
-
-
+------------------------------------------------------------------------------

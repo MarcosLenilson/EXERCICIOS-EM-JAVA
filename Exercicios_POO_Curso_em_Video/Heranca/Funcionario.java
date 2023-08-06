@@ -1,4 +1,4 @@
-package Exercicios_POO_Curso_em_Video;
+package Exercicios_POO_Curso_em_Video.Heranca;
 
 public class Funcionario extends Pessoa {
     private String setor;

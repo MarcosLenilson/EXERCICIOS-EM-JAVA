@@ -8,7 +8,7 @@ public class Exercicio_04 {
         double ipi = leitoScanner.nextDouble();
 
         System.out.print("Digite o código da peça 1: ");
-        int codigoPeca1 = leitoScanner.nextInt();
+        //int codigoPeca1 = leitoScanner.nextInt();
         System.out.print("Digite o valor unitário da peça 1: ");
         double valorPeca1 = leitoScanner.nextDouble();
         System.out.print("Digite a quantidade de peças 1: ");
@@ -16,7 +16,7 @@ public class Exercicio_04 {
         
 
         System.out.print("Digite o código da peça 2: ");
-        int codigoPeca2 = leitoScanner.nextInt();
+        //int codigoPeca2 = leitoScanner.nextInt();
         System.out.print("Digite o valor unitário da peça 2: ");
         double valorPeca2 = leitoScanner.nextDouble();
         System.out.print("Digite a quantidade de peças 2: ");
